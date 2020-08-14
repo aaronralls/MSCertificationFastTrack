@@ -22,3 +22,7 @@
 (MeasureUp)https://www.measureup.com/products.html?cat=230
 
 (Scott Duffy - Udemy)https://www.udemy.com/course/70533-azure/
+
+# Oracle Free Cert
+
+(Post)https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html
