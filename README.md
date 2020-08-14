@@ -6,6 +6,8 @@
 
 (Tim Warner)https://bit.ly/TimWarner
 
+(Build 5 Nines Azure Cert Self Assessment Tools)https://build5nines.com/free-oss-exam-self-assessment-tool/
+
 (Microsoft Cert Guide)https://bit.ly/MSCertGuide
 
 (Microsoft $15 Azure Exams)https://bit.ly/CheapCerts
