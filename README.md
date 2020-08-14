@@ -25,4 +25,4 @@
 
 # Oracle Free Cert
 
-(Post)https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html
+(Post)https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html - NO LONGER AVAILABLE
